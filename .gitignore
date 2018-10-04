@@ -2,3 +2,6 @@
 Cinema
 Cinema.iml
 out/
+src/.classpath
+src/.gitignore
+src/.project
